@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 03:45+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: oneup/admin.py:60
+#, python-format
+msgid "%d product was successfully marked as unavailable."
+msgid_plural "%d products were successfully marked as unavailable."
+msgstr[0] ""
+msgstr[1] ""
+
+#: oneup/admin.py:78
+#, python-format
+msgid ""
+"Must choose more than 2 products to merge, and there can be only 1 (choose "
+"%d) available product."
+msgid_plural ""
+"Must choose more than 2 products to merge, and there can be only 1 (choose "
+"%d) available product."
+msgstr[0] ""
+msgstr[1] ""
+
+#: oneup/admin.py:141
+#, python-format
+msgid "%d product was successfully merged."
+msgid_plural "%d products were successfully merged."
+msgstr[0] ""
+msgstr[1] ""
+
+#: oneup/expands.py:82
+msgid "Invalid token."
+msgstr ""
+
+#: oneup/expands.py:85
+msgid "User has been deleted."
+msgstr ""
+
+#: oneup/expands.py:87
+msgid "User is temporarily banned."
+msgstr ""
+
+#: oneup/expands.py:89
+msgid "User is permanently banned."
+msgstr ""
+
+#: oneup/expands.py:91
+msgid "User inactive or deleted."
+msgstr ""
+
+#: oneup/expands.py:93
+msgid "Token has expired."
+msgstr ""
+
+#: oneup/views.py:40
+msgid "Missing store parameter."
+msgstr "store パラメーターがありません"
